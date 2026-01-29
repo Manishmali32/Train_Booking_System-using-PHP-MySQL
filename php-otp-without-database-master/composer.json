@@ -1,0 +1,19 @@
+{
+    "name": "moh4mmad/php-otp-without-database",
+    "description": "OTP verification using cryptography without database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sakib",
+            "email": "sakib@sakib.info"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Sakib\\": "src/"
+        }
+    },
+    "version": "1.0.0",
+    "require": {}
+}
